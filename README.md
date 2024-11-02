@@ -1,0 +1,1 @@
+La API se puede ejecutar decargando el archivo y corriendolo en un IDE, y probar los test. Si no se puede acceder a los metodos de manera online con la URL https://palacios-parcialback.onrender.com. Ademas hay un archivo .json que se puede importar a Postman para ver los metodos.
